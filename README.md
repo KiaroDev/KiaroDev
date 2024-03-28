@@ -11,7 +11,7 @@
 <div align="center">
 
   <a href="#" alt="Discord">
-    <img src="https://img.shields.io/badge/-@kiarofv-4169E1?style=flat-square&labelColor=4169E1&logo=discord&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/-@kiarodev-4169E1?style=flat-square&labelColor=4169E1&logo=discord&logoColor=white" /></a>
 
   <a href="#" alt="Instagram">
     <img src="https://img.shields.io/badge/-@alisson_y2k-ffcbdb?style=flat-square&labelColor=ffcbdb&logo=instagram&logoColor=white"/></a>
