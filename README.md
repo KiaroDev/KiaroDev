@@ -1,12 +1,19 @@
-<img src="https://64.media.tumblr.com/ccdf45272df15cf01e3d227618f766d7/229a36b006c37be7-ca/s540x810/c039719805c6c43b7c7b000caa9a6bb3e59262be.gif">
+<img src="https://pm1.narvii.com/6523/5e6b1beaa0bff18bf1fac39ba7052ffdb20ba8b9_hq.jpg">
 
-<strong>I'am a KiaroDev</strong>, <strong> Studying to try be Full STACK Developer ✨</strong> 
+<strong>Welcome to my profile</strong>, <strong> My name is <strong>Alisson</strong> and learn more about me here.👇</strong> 
 
 > 📖 What am I trying to learn: <strong>English and Español</strong> 
 >
-> 💬 About me: <strong>Creating and Tester of games</strong>
+> 💬 About me: <strong>Just a hard-working guy who has Jesus Christ above all else✝️.</strong>
+>
+> 💼 Work Out: <strong>Traffic Manager🧠🧑‍💼 and Website Builder💻🛠️</strong>
+>
+> 🚀 About my Startup: <strong>Chroma... wait more days for a new spoiler</strong>
 >
 > 🗣️ Languages: <strong> Portuguese, English and Español</strong>
+>
+> 🔥 Skills:
+> <div> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"> </div>
 
 <div align="center">
 
