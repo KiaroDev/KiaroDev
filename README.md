@@ -11,10 +11,19 @@
 <div align="center">
 
   <a href="#" alt="Discord">
-    <img src="https://img.shields.io/badge/-@kiarodev-4169E1?style=flat-square&labelColor=4169E1&logo=discord&logoColor=white" /></a>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" width="32" height="32" />
+  </a>
 
   <a href="#" alt="Instagram">
-    <img src="https://img.shields.io/badge/-@alisson_y2k-ffcbdb?style=flat-square&labelColor=ffcbdb&logo=instagram&logoColor=white"/></a>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="32" height="32" />
+  </a>
 
-<button> <strong> Social Media<strong></button>
+  <a href="#" alt="Twitter">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" width="32" height="32" />
+  </a>
+
+  <a href="#" alt="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="32" height="32" />
+  </a>
+
 </div>
