@@ -10,7 +10,7 @@
   <blockquote>
     📖 What am I trying to learn: <strong>English and Español</strong>  <br>
     💬 About me: <strong>Just a hard-working guy who has Jesus Christ above all else✝️.</strong>  <br>
-    💼 Work Out: <strong>Traffic Manager🧠🧑‍💼 and Website Builder💻🛠️</strong>  <br>
+    💼 Work Out: <strong>Paid traffic manager🧠🧑‍💼 and Website Builder💻🛠️</strong>  <br>
     🚀 About my Startup: <strong>Chroma... wait more days for a new spoiler</strong>  <br>
     🗣️ Languages: <strong>Portuguese, English and Español</strong>  <br>
     💻 Programming languages developed:
