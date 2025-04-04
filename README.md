@@ -25,7 +25,7 @@
 </div>
 
 <br><br>
-    
+
 <div align="center">
 
   <a href="#" alt="Discord">
