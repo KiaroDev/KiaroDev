@@ -28,20 +28,21 @@
 
 <div align="center">
 
-  <a href="#" alt="Discord">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" width="24" height="24" />
+  <a href="https://linktr.ee/kiarofv" alt="Linktree">
+    <img src="https://th.bing.com/th/id/R.4399f915a33c18a0504c617c7ef8764d?rik=jsJEjGogIugEFA&pid=ImgRaw&r=0" width="55" height="30" />
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="#" alt="Instagram">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="24" height="24" />
+  <a href="instagram.com/kiiaaroo" alt="Instagram">
+    <img src="https://logoyab.com/wp-content/uploads/2023/12/%D9%84%D9%88%DA%AF%D9%88-%D8%A7%DB%8C%D9%86%D8%B3%D8%AA%D8%A7%DA%AF%D8%B1%D8%A7%D9%85-1030x1030.png" width="24" height="24" />
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="#" alt="Twitter">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" width="24" height="24" />
+  <a href="https://www.youtube.com/@kiarofv" alt="Youtube">
+    <img src="https://static.vecteezy.com/system/resources/previews/024/983/592/original/youtube-logo-transparent-free-png.png" width="24" height="24" />
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="#" alt="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="24" height="24" />
+  <a href="https://x.com/GodAlissonX" alt="X">
+    <img src="https://img.freepik.com/premium-vector/x-new-logo_628407-1898.jpg" width="24" height="24" />
   </a>
 
 </div>
+
