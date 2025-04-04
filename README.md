@@ -13,7 +13,7 @@
     💼 Work Out: <strong>Traffic Manager🧠🧑‍💼 and Website Builder💻🛠️</strong>  <br>
     🚀 About my Startup: <strong>Chroma... wait more days for a new spoiler</strong>  <br>
     🗣️ Languages: <strong>Portuguese, English and Español</strong>  <br>
-    🔥 Skills:
+    💻 Programming languages developed:
     <br><br>
     <div> 
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> 
