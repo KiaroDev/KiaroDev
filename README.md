@@ -8,11 +8,11 @@
   <p><strong>My name is Alisson and learn more about me here.👇</strong></p>
   
   <blockquote>
-    📖 What am I trying to learn: <strong>English and Español</strong>  <br>
+    📖 What am I trying to learn: <strong>English and Spanish</strong>  <br>
     💬 About me: <strong>Just a hard-working guy who has Jesus Christ above all else✝️.</strong>  <br>
     💼 Work Out: <strong>Paid traffic manager🧠🧑‍💼 and Website Builder💻🛠️</strong>  <br>
     🚀 About my Startup: <strong>Chroma... wait more days for a new spoiler</strong>  <br>
-    🗣️ Languages: <strong>Portuguese, English and Español</strong>  <br>
+    🗣️ Languages: <strong>Portuguese, English and Spanish</strong>  <br>
     💻 Programming languages developed:
     <div> 
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> 
