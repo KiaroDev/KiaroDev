@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/18927757-b4d5-458e-9a86-8cea5f10c95e" alt="Banner" width="1000">
+  <img src="https://github.com/user-attachments/assets/45e000cf-9c31-4368-9eaa-a01dde44e249" alt="Banner" width="1000">
 </div>
 
 <div style="width: 50%; margin: 0 auto; text-align: left;">
@@ -10,7 +10,7 @@
    <strong> 📖 What am I trying to learn:</strong> English and Spanish  <br>
    <strong> 💬 About me:</strong> Just a hard-working guy who has Jesus Christ above all else✝️.  <br>
    <strong> 💼 Work Out:</strong> Paid traffic manager🧠🧑‍💼 and Website Builder💻🛠️  <br>
-   <strong> 🚀 About my Startup:</strong> Chroma... wait more days for a new spoiler  <br>
+   🚀 About my Startup:</strong> <img src="https://github.com/user-attachments/assets/3076f88d-1dba-429b-b380-f99e5ba6a05a" alt="Startup Icon" width="17" style="border-radius: 100%; vertical-align: middle; margin-right: 5px;"> -  ChromaSolar - ☀️🍃 <br> <strong>
    <strong> 🗣️ Languages:</strong> Portuguese, English and Spanish  <br>
    <strong> 💻 Programming languages developed:</strong>
     <div> 
