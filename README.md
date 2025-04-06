@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/7ce5f613-25d8-4ebe-9ccc-a246966341c1" alt="Banner" width="1000">
-   <h1 style="font-size: 50px; font-weight: 900; text-transform: uppercase; letter-spacing: 20px;"> <br> <strong>@k i i a r o<strong></h1>
+  <img src="https://github.com/user-attachments/assets/18927757-b4d5-458e-9a86-8cea5f10c95e" alt="Banner" width="1000">
 </div>
 
 <div style="width: 50%; margin: 0 auto; text-align: left;">
@@ -8,7 +7,7 @@
   <p><strong>My name is Alisson and learn more about me here.👇</strong></p>
   
   <blockquote>
-   <strong> 📖 What am I trying to learn:</strong>English and Spanish  <br>
+   <strong> 📖 What am I trying to learn:</strong> English and Spanish  <br>
    <strong> 💬 About me:</strong> Just a hard-working guy who has Jesus Christ above all else✝️.  <br>
    <strong> 💼 Work Out:</strong> Paid traffic manager🧠🧑‍💼 and Website Builder💻🛠️  <br>
    <strong> 🚀 About my Startup:</strong> Chroma... wait more days for a new spoiler  <br>
@@ -24,25 +23,27 @@
   </blockquote>
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
-
   <a href="https://linktr.ee/kiarofv" alt="Linktree">
     <img src="https://th.bing.com/th/id/R.4399f915a33c18a0504c617c7ef8764d?rik=jsJEjGogIugEFA&pid=ImgRaw&r=0" width="55" height="30" />
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.instagram.com/kiiaaroo" alt="Instagram">
     <img src="https://logoyab.com/wp-content/uploads/2023/12/%D9%84%D9%88%DA%AF%D9%88-%D8%A7%DB%8C%D9%86%D8%B3%D8%AA%D8%A7%DA%AF%D8%B1%D8%A7%D9%85-1030x1030.png" width="24" height="24" />
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.youtube.com/@kiarofv" alt="Youtube">
     <img src="https://static.vecteezy.com/system/resources/previews/024/983/592/original/youtube-logo-transparent-free-png.png" width="24" height="24" />
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://x.com/GodAlissonX" alt="X">
     <img src="https://img.freepik.com/premium-vector/x-new-logo_628407-1898.jpg" width="24" height="24" />
   </a>
-
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://github.com/user-
