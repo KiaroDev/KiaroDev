@@ -39,7 +39,7 @@
     <img src="https://static.vecteezy.com/system/resources/previews/024/983/592/original/youtube-logo-transparent-free-png.png" width="24" height="24" />
   </a> &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://x.com/GodAlissonX" alt="X">
+  <a href="https://x.com/kiaro" alt="X">
     <img src="https://img.freepik.com/premium-vector/x-new-logo_628407-1898.jpg" width="24" height="24" />
   </a>
 </div>
