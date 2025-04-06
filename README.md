@@ -7,7 +7,7 @@
   <blockquote>
    <strong> 📖 𝙒𝙝𝙖𝙩 𝙖𝙢 𝙄 𝙩𝙧𝙮𝙞𝙣𝙜 𝙩𝙤 𝙡𝙚𝙖𝙧𝙣:</strong> English and Spanish  <br>
    <strong> 💬 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲:</strong> Just a hard-working guy who has Jesus Christ above all else✝️.  <br>
-   <strong> 💼 𝗙𝗿𝗲𝗲𝗹𝗮𝗻𝗰𝗲𝗿𝘀 𝗝𝗼𝗯𝘀:</strong> Paid traffic manager🧠🧑‍💼 and Website Builder💻🛠️  <br>
+   <strong> 💼 𝗙𝗿𝗲𝗲𝗹𝗮𝗻𝗰𝗲𝗿𝘀 𝗝𝗼𝗯𝘀:</strong> **Paid traffic manager🧠🧑‍💼 and Website Builder💻🛠️** <br>
    <strong>🚀 𝗔𝗯𝗼𝘂𝘁 𝗺𝘆 𝗦𝘁𝗮𝗿𝘁𝘂𝗽:</strong> <img src="https://github.com/user-attachments/assets/2052f008-0c1e-4e57-a29c-d9883130d9fc" alt="Startup Icon" width="50" style="border-radius: 100%; vertical-align: middle; margin-right: 5px;"> <br>
    <strong> 🗣️ 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀:</strong> Portuguese, English and Spanish  <br>
    <strong> 💻 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗹𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗱:</strong>
@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 
-  𝓐𝓵𝓲𝓼𝓼𝓸𝓷 / 2009</strong> <br>
+  𝓐𝓵𝓲𝓼𝓼𝓸𝓷 / 𝟮𝟬𝟬𝟵</strong> <br>
   
 <div align="center">
  <a href="https://www.tiktok.com/@kiarofv" alt="Tik Tok">
