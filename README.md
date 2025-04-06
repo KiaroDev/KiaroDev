@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f477d495-e935-48c9-91b5-947a598e60f0" alt="Banner" width="1000">
+  <img src="https://github.com/user-attachments/assets/7ce5f613-25d8-4ebe-9ccc-a246966341c1" alt="Banner" width="1000">
    <h1 style="font-size: 50px; font-weight: 900; text-transform: uppercase; letter-spacing: 20px;"> <br> <strong>@k i i a r o<strong></h1>
 </div>
 
