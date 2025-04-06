@@ -32,7 +32,7 @@
     <img src="https://th.bing.com/th/id/R.4399f915a33c18a0504c617c7ef8764d?rik=jsJEjGogIugEFA&pid=ImgRaw&r=0" width="55" height="30" />
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="instagram.com/kiiaaroo" alt="Instagram">
+  <a href="https://www.instagram.com/kiiaaroo" alt="Instagram">
     <img src="https://logoyab.com/wp-content/uploads/2023/12/%D9%84%D9%88%DA%AF%D9%88-%D8%A7%DB%8C%D9%86%D8%B3%D8%AA%D8%A7%DA%AF%D8%B1%D8%A7%D9%85-1030x1030.png" width="24" height="24" />
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
