@@ -1,10 +1,8 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/45e000cf-9c31-4368-9eaa-a01dde44e249" alt="Banner" width="1000">
 </div>
-
+<br>
 <div style="width: 50%; margin: 0 auto; text-align: left;">
-  <h2 style="text-align: center;">Welcome to my profile!</h2>
-  <p><strong>My name is Alisson and learn more about me here.👇</strong></p>
   
   <blockquote>
    <strong> 📖 What am I trying to learn:</strong> English and Spanish  <br>
