@@ -27,20 +27,20 @@
   𝓐𝓵𝓲𝓼𝓼𝓸𝓷 / 2009</strong> <br>
   
 <div align="center">
-  <a href="https://linktr.ee/kiarofv" alt="Linktree">
-    <img src="https://th.bing.com/th/id/R.4399f915a33c18a0504c617c7ef8764d?rik=jsJEjGogIugEFA&pid=ImgRaw&r=0" width="55" height="30" />
+ <a href="https://www.tiktok.com/@kiarofv" alt="Tik Tok">
+    <img src="https://static.vecteezy.com/system/resources/previews/022/493/576/original/3d-render-tiktok-logo-icon-isolated-on-transparent-background-free-png.png" width="24" height="24" />
   </a> &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.instagram.com/kiiaaroo" alt="Instagram">
-    <img src="https://logoyab.com/wp-content/uploads/2023/12/%D9%84%D9%88%DA%AF%D9%88-%D8%A7%DB%8C%D9%86%D8%B3%D8%AA%D8%A7%DA%AF%D8%B1%D8%A7%D9%85-1030x1030.png" width="24" height="24" />
+    <img src="https://images.rawpixel.com/image_png_social_square/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3JtNTM1LXNvY2lhbC0wMDMucG5n.png" width="24" height="24" />
   </a> &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.youtube.com/@kiarofv" alt="Youtube">
-    <img src="https://static.vecteezy.com/system/resources/previews/024/983/592/original/youtube-logo-transparent-free-png.png" width="24" height="24" />
+    <img src="https://th.bing.com/th/id/OIP.KrpVK5YTUxubciiTu5czjwHaHa?rs=1&pid=ImgDetMain" width="24" height="24" />
   </a> &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://x.com/kiaro" alt="X">
-    <img src="https://img.freepik.com/premium-vector/x-new-logo_628407-1898.jpg" width="24" height="24" />
+    <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-x-10193145-8250224.png" width="24" height="24" />
   </a>
 </div>
 
