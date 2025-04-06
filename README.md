@@ -5,18 +5,19 @@
 <div style="width: 50%; margin: 0 auto; text-align: left;">
   
   <blockquote>
-   <strong> 📖 What am I trying to learn:</strong> English and Spanish  <br>
-   <strong> 💬 About me:</strong> Just a hard-working guy who has Jesus Christ above all else✝️.  <br>
-   <strong> 💼 Work Out:</strong> Paid traffic manager🧠🧑‍💼 and Website Builder💻🛠️  <br>
-   🚀 About my Startup:</strong> <img src="https://github.com/user-attachments/assets/3076f88d-1dba-429b-b380-f99e5ba6a05a" alt="Startup Icon" width="17" style="border-radius: 100%; vertical-align: middle; margin-right: 5px;"> -  ChromaSolar - ☀️🍃 <br> <strong>
-   <strong> 🗣️ Languages:</strong> Portuguese, English and Spanish  <br>
-   <strong> 💻 Programming languages developed:</strong>
+   <strong> 📖 𝙒𝙝𝙖𝙩 𝙖𝙢 𝙄 𝙩𝙧𝙮𝙞𝙣𝙜 𝙩𝙤 𝙡𝙚𝙖𝙧𝙣:</strong> English and Spanish  <br>
+   <strong> 💬 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲:</strong> Just a hard-working guy who has Jesus Christ above all else✝️.  <br>
+   <strong> 💼 𝗙𝗿𝗲𝗲𝗹𝗮𝗻𝗰𝗲𝗿𝘀 𝗝𝗼𝗯𝘀:</strong> Paid traffic manager🧠🧑‍💼 and Website Builder💻🛠️  <br>
+   <strong>🚀 𝗔𝗯𝗼𝘂𝘁 𝗺𝘆 𝗦𝘁𝗮𝗿𝘁𝘂𝗽:</strong> <img src="https://github.com/user-attachments/assets/3076f88d-1dba-429b-b380-f99e5ba6a05a" alt="Startup Icon" width="17" style="border-radius: 100%; vertical-align: middle; margin-right: 5px;"> -  ChromaSolar - ☀️🍃 <br>
+   <strong> 🗣️ 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀:</strong> Portuguese, English and Spanish  <br>
+   <strong> 💻 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗹𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗱:</strong>
+    <br>
     <div> 
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> 
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> 
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> 
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> 
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"> 
+      <img src="https://img.shields.io/badge/𝗛𝗧𝗠𝗟-E34F26?style=flat-square&logo=html5&logoColor=white" alt="𝗛𝗧𝗠𝗟"> 
+      <img src="https://img.shields.io/badge/𝗖𝗦𝗦-1572B6?style=flat-square&logo=css3&logoColor=white" alt="𝗖𝗦𝗦"> 
+      <img src="https://img.shields.io/badge/𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁"> 
+      <img src="https://img.shields.io/badge/𝗣𝘆𝘁𝗵𝗼𝗻-3776AB?style=flat-square&logo=python&logoColor=white" alt="𝗣𝘆𝘁𝗵𝗼𝗻"> 
+      <img src="https://img.shields.io/badge/𝗚𝗶𝘁-F05032?style=flat-square&logo=git&logoColor=white" alt="𝗚𝗶𝘁"> 
     </div>
   </blockquote>
 </div>
