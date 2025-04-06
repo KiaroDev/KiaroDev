@@ -19,11 +19,13 @@
       <img src="https://img.shields.io/badge/𝗣𝘆𝘁𝗵𝗼𝗻-3776AB?style=flat-square&logo=python&logoColor=white" alt="𝗣𝘆𝘁𝗵𝗼𝗻"> 
       <img src="https://img.shields.io/badge/𝗚𝗶𝘁-F05032?style=flat-square&logo=git&logoColor=white" alt="𝗚𝗶𝘁"> 
     </div>
-  </blockquote>
 </div>
 
 <br>
+<div align="center">
 
+  𝓐𝓵𝓲𝓼𝓼𝓸𝓷 / 2009</strong> <br>
+  
 <div align="center">
   <a href="https://linktr.ee/kiarofv" alt="Linktree">
     <img src="https://th.bing.com/th/id/R.4399f915a33c18a0504c617c7ef8764d?rik=jsJEjGogIugEFA&pid=ImgRaw&r=0" width="55" height="30" />
