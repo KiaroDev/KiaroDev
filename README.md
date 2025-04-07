@@ -28,19 +28,19 @@
   
 <div align="center">
  <a href="https://www.tiktok.com/@kiarofv" alt="Tik Tok">
-    <img src="https://static.vecteezy.com/system/resources/previews/022/493/576/original/3d-render-tiktok-logo-icon-isolated-on-transparent-background-free-png.png" width="24" height="24" />
+    <img src="https://github.com/user-attachments/assets/4e039a4b-4029-45f7-9fde-d875a46d3d3a" width="24" height="24" />
   </a> &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.instagram.com/kiiaaroo" alt="Instagram">
-    <img src="https://images.rawpixel.com/image_png_social_square/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3JtNTM1LXNvY2lhbC0wMDMucG5n.png" width="24" height="24" />
+    <img src="https://github.com/user-attachments/assets/bc2821eb-db73-48f1-a2f3-adca7f356478" width="24" height="24" />
   </a> &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.youtube.com/@kiarofv" alt="Youtube">
-    <img src="https://th.bing.com/th/id/OIP.KrpVK5YTUxubciiTu5czjwHaHa?rs=1&pid=ImgDetMain" width="24" height="24" />
+    <img src="https://github.com/user-attachments/assets/c656bae6-11d6-40df-8b44-f05856ff23f9" width="24" height="24" />
   </a> &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://x.com/kiaro" alt="X">
-    <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-x-10193145-8250224.png" width="24" height="24" />
+    <img src="https://github.com/user-attachments/assets/b28ecedc-9806-4595-bf1f-869631668d7f" width="24" height="24" />
   </a>
 </div>
 
