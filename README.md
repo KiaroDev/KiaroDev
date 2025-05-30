@@ -10,10 +10,7 @@
    <strong> 💼 𝗙𝗿𝗲𝗲𝗹𝗮𝗻𝗰𝗲𝗿𝘀 𝗝𝗼𝗯𝘀:</strong> Paid traffic manager🧠🧑‍💼 and Website Builder💻🛠️ <br>
    <strong>🚀 𝗔𝗯𝗼𝘂𝘁 𝗺𝘆 𝗦𝘁𝗮𝗿𝘁𝘂𝗽:</strong> <img src="https://github.com/user-attachments/assets/fb38efc8-aa4b-4877-a2d8-1ebf199df197" width="25" style="border-radius: 100%; vertical-align: middle; margin-right: 5px;"> <br>
    <strong> 🗣️ 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀:</strong> Portuguese, English and Spanish  <br>
-   <strong> 💻 𝗧𝗲𝗰𝗻𝗼𝗹𝗼𝗴𝗶𝗮𝘀:</strong>
-<br>
-<div style="margin-top: 4px;">
-  <strong>𝗟𝗶𝗻𝗴𝘂𝗮𝗴𝗲𝗻𝘀 𝗱𝗲 𝗠𝗮𝗿𝗰𝗮<strong>çã</strong>𝗼:</strong>
+  <strong>💻 𝗧𝗲𝗰𝗻𝗼𝗹𝗼𝗴𝗶𝗮𝘀<strong>:</strong>
   <br>
   <img src="https://github.com/user-attachments/assets/1d1f88b5-6f0b-4d15-878a-f9d3ac340135" width="47"> 
   <img src="https://github.com/user-attachments/assets/3282e5e3-1bb0-4c3c-98f9-69e61cb39e30" width="50">
