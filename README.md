@@ -36,15 +36,15 @@
 <div align="center">
  <a href="https://www.tiktok.com/@kiarofv" alt="Tik Tok">
     <img src="https://github.com/user-attachments/assets/4e039a4b-4029-45f7-9fde-d875a46d3d3a" width="24" height="24" />
-  </a>      
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;     
 
   <a href="https://www.instagram.com/kiiaaroo" alt="Instagram">
     <img src="https://github.com/user-attachments/assets/bc2821eb-db73-48f1-a2f3-adca7f356478" width="24" height="24" />
-  </a>      
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;     
 
   <a href="https://www.youtube.com/@kiarofv" alt="Youtube">
     <img src="https://github.com/user-attachments/assets/c656bae6-11d6-40df-8b44-f05856ff23f9" width="24" height="24" />
-  </a>      
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;     
 
   <a href="https://x.com/kiaro" alt="X">
     <img src="https://github.com/user-attachments/assets/b28ecedc-9806-4595-bf1f-869631668d7f" width="24" height="24" />
